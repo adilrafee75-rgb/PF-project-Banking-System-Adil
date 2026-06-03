@@ -1284,7 +1284,6 @@ int main ()
             a = createNewAccount();
             while (a == true)
             {
-                a = createNewAccount();
                 name[notedIndex] = "";
                 surname[notedIndex] = "";
                 cnic[notedIndex] = "";
@@ -1292,6 +1291,7 @@ int main ()
                 email[notedIndex] = "";
                 address[notedIndex] = "";
 
+                a = createNewAccount();
             }
                   
         }   
