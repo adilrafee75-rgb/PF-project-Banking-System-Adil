@@ -1,0 +1,10 @@
+123456789|Ali|Khan|35202-1234567-1|ali.khan@gmail.com|03001234567|Lahore|1234|Saving
+234567891|Ahmed|Raza|35201-2345678-2|ahmed.raza@gmail.com|03111234567|Karachi|5678|Current
+345678912|Sara|Malik|35203-3456789-3|sara.malik@gmail.com|03221234567|Islamabad|4321|Saving
+456789123|Usman|Ali|35204-4567890-4|usman.ali@gmail.com|03331234567|Faisalabad|8765|Current
+567891234|Ayesha|Noor|35205-5678901-5|ayesha.noor@gmail.com|03441234567|Multan|1111|Saving
+678912345|Bilal|Ahmed|35206-6789012-6|bilal.ahmed@gmail.com|03551234567|Peshawar|2222|Current
+789123456|Fatima|Zahra|35207-7890123-7|fatima.zahra@gmail.com|03661234567|Quetta|3333|Saving
+891234567|Hamza|Siddiqui|35208-8901234-8|hamza.siddiqui@gmail.com|03771234567|Sialkot|4444|Current
+912345678|Mariam|Iqbal|35209-9012345-9|mariam.iqbal@gmail.com|03881234567|Rawalpindi|5555|Saving
+135792468|Zain|Hassan|35210-1122334-0|zain.hassan@gmail.com|03991234567|Bahawalpur|9999|Current
